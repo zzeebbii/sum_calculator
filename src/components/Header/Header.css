@@ -1,0 +1,23 @@
+.header {
+  background: #c10708 0% 0% no-repeat padding-box;
+  height: 70px;
+  left: 0px;
+  opacity: 1;
+  top: -1px;
+  width: 1920px;
+}
+
+.header p {
+  color: #ffffff;
+  font: normal normal normal 18px/16px Varela Round;
+  height: 22px;
+  left: 892px;
+  letter-spacing: 0.54px;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  top: 25px;
+  width: 128px;
+}
